@@ -49,7 +49,7 @@ Options:
 	this option the performance data last_ago is always 0 or near to 0.
  -p, --repo
 	Check if 'Unattended-upgrades' is configured to include the specified
-	custom repository.
+	custom repository. Can be specified multiple times.
  -R, --reboot
 	Check if the machine needs a reboot.
  -r, --remove
