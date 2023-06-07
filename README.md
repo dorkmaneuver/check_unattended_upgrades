@@ -90,6 +90,7 @@ About file system permissions:
 		751 (drwxr-x--x) /var/log/unattended-upgrades
 		644 (-rw-r--r--) /var/log/unattended-upgrades/unattended-upgrades.log
 
+Python version >= 3.8 required.
 ```
 
 ## Project pages
