@@ -50,7 +50,7 @@ Command line interface
                             last_ago is always 0 or near to 0.
       -p CUSTOM_REPO, --repo CUSTOM_REPO, --custom-repo CUSTOM_REPO
                             Check if 'Unattended-upgrades' is configured to include
-                            the specified custom repository.
+                            the specified custom repository. Can be specified multiple times.
       -R, --reboot          Check if the machine needs a reboot.
       -r CONFIG_VALUE, --remove CONFIG_VALUE
                             Check if the configuration 'Unattended-Upgrade::Remove-
